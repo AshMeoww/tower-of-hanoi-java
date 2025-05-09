@@ -28,7 +28,9 @@ This project demonstrates how to solve the puzzle using recursion and can be cus
     java TowerOfHanoi
 
 Example Output:
+
 The program will show the steps required to solve the Tower of Hanoi for the number of disks you entered. For example, with 3 disks, the output would be:
+
 Move disk 1 from A to C
 Move disk 2 from A to B
 Move disk 1 from C to B
