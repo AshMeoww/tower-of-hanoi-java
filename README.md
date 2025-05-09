@@ -32,11 +32,17 @@ Example Output:
 The program will show the steps required to solve the Tower of Hanoi for the number of disks you entered. For example, with 3 disks, the output would be:
 
 Move disk 1 from A to C
+
 Move disk 2 from A to B
+
 Move disk 1 from C to B
+
 Move disk 3 from A to C
+
 Move disk 1 from B to A
+
 Move disk 2 from B to C
+
 Move disk 1 from A to C
 
 Feel free to fork the repository, submit issues, or create pull requests. Any contributions to improve the code or add new features are welcome!
